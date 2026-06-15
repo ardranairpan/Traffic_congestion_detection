@@ -13,4 +13,4 @@ Detects traffic congestion using Python.
 - Classifies traffic density level
 
 ### Output
-[Traffic Detection Output](Screenshot 2026-06-15 193928.png)
+Screenshot 2026-06-15 193928.png
